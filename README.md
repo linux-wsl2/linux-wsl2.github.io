@@ -2,8 +2,7 @@
 <br>
 <br>
 <br>
-<br>
-## Homepage
+<h2>Homepage</h2>
 
 ---
 
