@@ -16,4 +16,4 @@ stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/
 ---
 
 ### Join Linux-WSL2!
-Want to join the organization? Send an email to rmnscnce@ya.ru with "[LXWSL2_APPLINFO `ddmmyyyy of mail`]" to ask about applications
+Want to join the organization? Send an email to rmnscnce@ya.ru with "[LXWSL2_APPLINFO `ddmmyyyy of mail`]" included in the title to ask about applications
