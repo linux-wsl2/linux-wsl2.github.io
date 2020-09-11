@@ -16,7 +16,7 @@ stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/
 
 ### What's up and coming?
 - [x] Latest `stable` variant
-- [ ] Official Microsoft variant
+- [x] Official Microsoft variant
 - [ ] EOL `stable` variant
 - [ ] `longterm` variants
 - [ ] `linux-next` variant
