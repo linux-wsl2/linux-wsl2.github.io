@@ -1,4 +1,6 @@
 <img src="images/image.png" width="150" title="WSL Avatar" align="right" /><i>The Linux Kernel Archives... for WSL2</i>
+<br>
+<br>
 ---
 
 # Homepage
@@ -6,6 +8,7 @@
 
 Variant | Version | Date | Source | Binary
 --------|---------|------|--------|--------------------
+**microsoft-standard** | 4.19.128 | 2020-09-08 | [[github]](https://github.com/microsoft/WSL2-Linux-Kernel) | [[msi]](https://www.catalog.update.microsoft.com/ScopedViewInline.aspx?updateid=07f17ebd-e676-437e-a18a-ddaf5ab45679)
 stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/tree/linux-5.8.y) [[zip]](https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.zip) [[tarball (gz)]](https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.tar.gz) | [[tarball (xz)]](https://github.com/rmnscnce/linux-wsl2/releases/download/v5.8.8/linux-wsl2_5.8.8.tar.xz)
 ~~stable [EOL]~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~
 ~~longterm~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~
@@ -13,6 +16,7 @@ stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/
 
 ### What's up and coming?
 - [x] Latest `stable` variant
+- [ ] Official Microsoft variant
 - [ ] EOL `stable` variant
 - [ ] `longterm` variants
 - [ ] `linux-next` variant
