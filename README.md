@@ -1,8 +1,4 @@
-<p align="right">
-  <img src="images/image.png" width="150" title="WSL Avatar">
-</p>
-*Welcome to Linux-WSL2!*
-
+<img src="images/image.png" width="150" title="WSL Avatar" align="right" /><i>The Linux Kernel Archives... for WSL2</i>
 ---
 
 # Homepage
