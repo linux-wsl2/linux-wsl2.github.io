@@ -4,6 +4,6 @@ description:
 show_downloads: true
 
 github:
-  repository_url: https://github.com/linux-wsl2/
-  zip_url: https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.zip
-  tar_url: https://github.com/rmnscnce/linux-wsl2/releases/download/v5.8.8/linux-wsl2_5.8.8.tar.xz
+  repository_url:
+  zip_url: https://github.com/linux-wsl2/linux-stable/archive/v5.8.8.zip
+  tar_url: https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.8/x64_linux-wsl2_5.8.8.tar.xz
