@@ -1,7 +1,4 @@
 <img src="images/image.png" width="150" title="WSL Avatar" align="right" /><font size="7">The Linux-WSL2 Kernel Archives</font>
-<br>
-<br>
-<br>
 <h2>Homepage</h2>
 
 ---
