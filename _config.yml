@@ -1,6 +1,6 @@
 theme: jekyll-theme-modernist
 title: Linux for WSL2
-description: The archives for linux-wsl2, including release binaries
+description: The archives for Linux-WSL2, including precompiled release binaries
 show_downloads: true
 
 github:
