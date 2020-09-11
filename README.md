@@ -1,4 +1,4 @@
-<img src="images/image.png" width="150" title="WSL Avatar" align="right" /><i>The Linux Kernel Archives... for WSL2</i>
+<img src="images/image.png" width="150" title="WSL Avatar" align="right" /><b>The WSL2 Linux Kernel Archives</b>
 <br>
 <br>
 <br>
@@ -9,13 +9,18 @@
 # Homepage
 ### Sources and download 
 
-Variant | Version | Date | Source | Binary | Status
---------|---------|------|--------|--------|--------
-**microsoft-standard** | 4.19.128 | 2020-09-08 | [[github]](https://github.com/microsoft/WSL2-Linux-Kernel) | [[msi]](https://www.catalog.update.microsoft.com/ScopedViewInline.aspx?updateid=07f17ebd-e676-437e-a18a-ddaf5ab45679) | tested, official kernel fork by Microsoft
-stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/tree/linux-5.8.y) [[zip]](https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.zip) [[tarball (gz)]](https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.tar.gz) | [[tarball (xz)]](https://github.com/rmnscnce/linux-wsl2/releases/download/v5.8.8/linux-wsl2_5.8.8.tar.xz) | tested, upstreamed fork by Linux-WSL2
-~~stable [EOL]~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~no~~ 
-~~longterm~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~no~~
-~~linux-next~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~no~~
+#### Upstreamed from the [official Linux kernel repository](https://git.kernel.org/)
+Variant | Version | Date | Source | Binary 
+--------|---------|------|--------|--------
+stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/tree/linux-5.8.y) [[zip]](https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.zip) [[tarball (gz)]](https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.tar.gz) | [[tarball (xz)]](https://github.com/rmnscnce/linux-wsl2/releases/download/v5.8.8/linux-wsl2_5.8.8.tar.xz)
+~~stable [EOL]~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~
+~~longterm~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~
+~~linux-next~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~
+
+#### Official `microsoft-standard` variant
+Version | Date | Source | Binary
+--------|------|--------|--------
+4.19.128 | 2020-09-08 | [[github]](https://github.com/microsoft/WSL2-Linux-Kernel) | [[msi]](https://www.catalog.update.microsoft.com/ScopedViewInline.aspx?updateid=07f17ebd-e676-437e-a18a-ddaf5ab45679)
 
 ### What's up and coming?
 - [x] Latest `stable` variant
