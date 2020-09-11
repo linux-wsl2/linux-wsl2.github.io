@@ -1,4 +1,4 @@
-<img src="images/image.png" width="150" title="WSL Avatar" align="right" /># The Linux-WSL2 Archives
+<img src="images/image.png" width="150" title="WSL Avatar" align="right" /><i>The Linux-WSL2 Archives</i>
 <br>
 <br>
 <br>
