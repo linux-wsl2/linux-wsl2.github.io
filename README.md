@@ -1,5 +1,7 @@
 ![avatar](images/image.png)
-# Homepage ![avatar](images/image.png)
+*Welcome to Linux-WSL2!*
+---
+# Homepage
 ### Sources and download 
 
 Variant | Version | Date | Source | Binary
