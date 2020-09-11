@@ -1,3 +1,4 @@
 theme: jekyll-theme-modernist
-title: Linux for WSL2 Upstream Archives
+title: Linux for WSL2
 description: The archives for linux-wsl2, including release binaries
+show_downloads: true
