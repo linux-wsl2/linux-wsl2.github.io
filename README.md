@@ -1,5 +1,5 @@
-# Homepage
-### Sources and download
+# Homepage ![avatar](images/image.png)
+### Sources and download 
 
 Variant | Version | Date | Source | Binary
 --------|---------|------|--------|--------------------
