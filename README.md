@@ -1,5 +1,5 @@
 # Homepage
-### Sources and Download
+### Sources and download
 
 Variant | Version | Date | Source | Binary
 --------|---------|------|--------|--------------------
@@ -17,7 +17,7 @@ stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/
 
 ---
 ### About
-Linux for WSL2 (or Linux-WSL2) is a project by [@rmnscnce](github.com/rmnscnce) to bring the latest upstream Linux kernel for WSL2. The kernel included in standard WSL2 environment — while stable, is not the latest, even in its `longterm` variant. Using Linux-WSL2 is a great way to get the newest experience brought by Linux to your WSL2 environments
+Linux for WSL2 (or Linux-WSL2) is a project by [@rmnscnce](https://www.github.com/rmnscnce) to bring the latest upstream Linux kernel for WSL2 with little to no modifications. The kernel included in standard WSL2 environment — while stable, is not the latest, even in its `longterm` variant. Using Linux-WSL2 is a great way to get the newest experience brought by Linux to your WSL2 environments
 
 ### Get involved
 Email linux-wsl2@ya.ru to get information about getting involved in Linux-WSL2
