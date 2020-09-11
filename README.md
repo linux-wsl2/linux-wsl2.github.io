@@ -11,7 +11,7 @@
 
  Variant | Version | Date | Source | Binary |
  --------|---------|------|--------|--------|
- stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/tree/linux-5.8.y) [[zip]](https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.zip) [[tarball (gz)]](https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.tar.gz) | [[xz-tarball (x64)]](https://github.com/rmnscnce/linux-wsl2/releases/download/v5.8.8/linux-wsl2_5.8.8.tar.xz) ~~[xz-tarball (arm64)]~~
+ stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/tree/linux-5.8.y) [[zip]](https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.zip) [[gz-tarball]](https://github.com/rmnscnce/linux-wsl2/archive/v5.8.8.tar.gz) | [[xz-tarball (x64)]](https://github.com/rmnscnce/linux-wsl2/releases/download/v5.8.8/linux-wsl2_5.8.8.tar.xz) ~~[xz-tarball (arm64)]~~
  ~~stable [EOL]~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
  ~~longterm~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
  ~~linux-next~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
