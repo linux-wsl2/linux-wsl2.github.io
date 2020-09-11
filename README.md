@@ -16,6 +16,8 @@ stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/
 - [ ] MSI-based installer
 
 ---
+### About
+Linux for WSL2 (or Linux-WSL2) is a project by [@rmnscnce](github.com/rmnscnce) to bring the latest upstream Linux kernel for WSL2. The kernel included in standard WSL2 environment — while stable, is not the latest, even in its `longterm` variant. Using Linux-WSL2 is a great way to get the newest experience brought by Linux to your WSL2 environments
 
-### Join Linux-WSL2!
-Want to join the organization? Send an email to rmnscnce@ya.ru with "[LXWSL2_APPLINFO `ddmmyyyy of mail`]" included in the title to ask about applications
+### Get involved
+Email linux-wsl2@ya.ru to get information about getting involved in Linux-WSL2
