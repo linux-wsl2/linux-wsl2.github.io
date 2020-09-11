@@ -17,10 +17,7 @@ stable | 5.8.8 | 2020-09-11 | [[github]](https://github.com/rmnscnce/linux-wsl2/
 ~~longterm~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
 ~~linux-next~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
 
-#### Official `microsoft-standard` variant
-Version | Date | Source | Binary |
---------|------|--------|--------|
-4.19.128 | 2020-09-08 | [[github]](https://github.com/microsoft/WSL2-Linux-Kernel) | [[msi]](https://www.catalog.update.microsoft.com/ScopedViewInline.aspx?updateid=07f17ebd-e676-437e-a18a-ddaf5ab45679) 
+#### Get the official `microsoft-standard` variant builds [here](http://www.example.com)
 
 ### What's up and coming?
 - [x] Latest `stable` variant
