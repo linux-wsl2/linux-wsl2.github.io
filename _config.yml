@@ -1,9 +1,9 @@
 theme: jekyll-theme-modernist
 title: Linux-WSL2 Archives
-description:
+description: "some say the buttons in this header refer to the latest stable variant"
 show_downloads: true
 
 github:
-  repository_url:
+  repository_url: https://github.com/linux-wsl2/linux-stable/tree/linux-5.8.y
   zip_url: https://github.com/linux-wsl2/linux-stable/archive/v5.8.8.zip
   tar_url: https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.8/x64_linux-wsl2_5.8.8.tar.xz
