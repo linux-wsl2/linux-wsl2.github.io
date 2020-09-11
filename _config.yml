@@ -2,3 +2,8 @@ theme: jekyll-theme-modernist
 title: Linux for WSL2
 description: The archives for linux-wsl2, including release binaries
 show_downloads: true
+
+github:
+  repository_url: https://github.com/linux-wsl2/
+  zip_url: https://github.com/rmnscnce/linux-wsl2/releases/download/v5.8.8/linux-wsl2_5.8.8.tar.xz
+  tar_url: https://github.com/linux-wsl2/linux-wsl2.github.io/zipball/master
