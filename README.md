@@ -28,4 +28,4 @@ Get the official `microsoft-standard` variant builds [here [cab]](https://www.ca
 Linux-WSL2 is a project by [@rmnscnce](https://www.github.com/rmnscnce) to bring the latest upstream Linux kernel for WSL2 with little to no modifications. The kernel included in standard WSL2 environment — while stable, is not the latest, even in its `longterm` variant. Using Linux-WSL2 upstream kernel is a great way to get the newest experience brought by Linux to your WSL2 environments
 
 ### Get involved
-Email linux-wsl2@ya.ru to get information about getting involved in Linux-WSL2
+Send an email to `linux-wsl2@ya.ru` (put `[APPLINFO YYYYMMDD]` in the mail subject) to get information about getting involved in Linux-WSL2
