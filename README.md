@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="images/image.png" width="300" title="WSL Avatar">
+  <img src="images/image.png" width="150" title="WSL Avatar">
 </p>
 *Welcome to Linux-WSL2!*
 
