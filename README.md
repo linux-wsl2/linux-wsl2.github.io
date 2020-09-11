@@ -1,4 +1,4 @@
-<img src="images/image.png" width="150" title="WSL Avatar" align="right" /><h2>The WSL2 Linux Kernel Archives</h2>
+<img src="images/image.png" width="150" title="WSL Avatar" align="right" /><h1>The WSL2 Linux Kernel Archives</h1>
 <br>
 <br>
 <br>
@@ -6,7 +6,7 @@
 
 ---
 
-# Homepage
+## Homepage
 ### Sources and download 
 
  Variant | Version | Date | Source | Binary |
