@@ -21,5 +21,5 @@ Here you can find news about Linux-WSL2
 ### Quick newslines
 ###### ※ Newslines are sorted from the latest ones
 
-- `[20200912_20:07GMT]`: Currently compiling Linux v5.9-rc4 from the `mainline` variant. Sources are already available [here](https://github.com/linux-wsl2/linux-mainline)
+- `[20200912_20:07GMT]`: Currently compiling `Linux v5.9-rc4` from the `mainline` variant. Sources are already available [here](https://github.com/linux-wsl2/linux-mainline)
 - `[20200912_19:31GMT]`: Currently pushing `mainline` variant sources to the repository. `Linux v5.9-rc4` x64 release build incoming soon.
