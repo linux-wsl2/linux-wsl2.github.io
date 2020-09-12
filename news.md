@@ -22,4 +22,4 @@ Here you can find news about Linux-WSL2
 
 ###### ※ Newslines are sorted from the latest ones
 
-- [20200913-19:31GMT] Currently pushing `mainline` variant sources to the repository. `Linux v5.9-rc4` x64 release build incoming soon.
+- `[20200913_19:31GMT]`: Currently pushing `mainline` variant sources to the repository. `Linux v5.9-rc4` x64 release build incoming soon.
