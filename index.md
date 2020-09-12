@@ -1,4 +1,4 @@
-<p align="center"><font size="1"><a href="https://linux-wsl2.github.io/about">About</a> | <a href="mailto:linux-wsl2.github.io">Contact us</a> | <strike>Site news</strike> </font></p>
+<p align="center"><font size="1"><a href="https://linux-wsl2.github.io/about">About</a> | <a href="mailto:linux-wsl2.github.io">Contact us</a> | <a href="https://linux-wsl2.github.io/news">Site news</a> </font></p>
 <hr>
 <img src="/images/image.png" width="150" title="WSL Avatar" align="right" /><font size="7"><a href="https://linux-wsl2.github.io">The Linux-WSL2 Kernel Archives</a></font>
 <br>
@@ -19,12 +19,12 @@
 
 Get the official `microsoft-standard` variant builds [here [cab]](https://www.catalog.update.microsoft.com/Search.aspx?q=Windows%20Subsystem%20for%20Linux%20Update) ([[github]](https://github.com/microsoft/WSL2-Linux-Kernel))
 
-### What's up and coming?
-- [x] Latest `stable` variant
-- [x] Official Microsoft variant
-- [ ] `mainline` variant (`-rc` builds)
-- [ ] EOL `stable` variant
-- [ ] `longterm` variants
-- [ ] `linux-next` variant
-- [ ] `arm64` builds
-- [ ] MSI-based installer
+### Other resources
+- [Linux Kernel Archives](https://kernel.org)
+- [Windows Command Line](https://devblogs.microsoft.com/commandline)
+- [Kernel.org Documentations](https://www.kernel.org/doc/html/latest/)
+- [Kernel.org Patchwork](https://patchwork.kernel.org/)
+- [Kernel.org Wikis](https://wiki.kernel.org)
+- [Linux Kernel Mailing Lists](https://vger.kernel.org)
+- [Linux.com](https://www.linux.com)
+- [Linux Foundation](http://www.linuxfoundation.org/)
