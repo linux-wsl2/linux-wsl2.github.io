@@ -1,4 +1,5 @@
 <img src="images/image.png" width="150" title="WSL Avatar" align="right" /><font size="7">The Linux-WSL2 Kernel Archives</font>
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/linux-wsl2/linux-stable?style=plastic" width="75">
 <h2>Homepage</h2>
 
 ---
