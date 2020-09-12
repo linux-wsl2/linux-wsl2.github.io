@@ -1,4 +1,4 @@
-<img src="images/image.png" width="150" title="WSL Avatar" align="right" /><font size="7">The Linux-WSL2 Kernel Archives</font>
+<img src="../../images/image.png" width="150" title="WSL Avatar" align="right" /><font size="7">The Linux-WSL2 Kernel Archives</font>
 <br>
 <br>
 <img href="https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.8/x64_linux-wsl2_5.8.8.tar.xz" alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/linux-wsl2/linux-stable?label=Download%20(x64)&style=plastic" width="250" align="right">
