@@ -13,7 +13,7 @@
  ~~longterm~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
  ~~linux-next~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
 
-Get the official `microsoft-standard` variant builds [here [cab]](https://www.catalog.update.microsoft.com/Search.aspx?q=Windows%20Subsystem%20for%20Linux%20Update) ([github](https://github.com/microsoft/WSL2-Linux-Kernel) sources)
+Get the official `microsoft-standard` variant builds [here [cab]](https://www.catalog.update.microsoft.com/Search.aspx?q=Windows%20Subsystem%20for%20Linux%20Update) ([[github]](https://github.com/microsoft/WSL2-Linux-Kernel))
 
 ### What's up and coming?
 - [x] Latest `stable` variant
