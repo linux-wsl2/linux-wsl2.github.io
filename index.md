@@ -3,7 +3,7 @@
 <img src="/images/image.png" width="150" title="WSL Avatar" align="right" /><font size="7"><a href="https://linux-wsl2.github.io">The Linux-WSL2 Kernel Archives</a></font>
 <br>
 <br>
-<a href="https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.8/x64_linux-wsl2_5.8.8.tar.xz"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/linux-wsl2/linux-stable?label=Download%20(x64)&style=plastic" width="250" align="right"></a>
+<a href="https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.9/x64_linux-wsl2_5.8.9.tar.xz"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/linux-wsl2/linux-stable?label=Download%20(x64)&style=plastic" width="250" align="right"></a>
 <br>
 <hr size="30">
 
@@ -12,7 +12,7 @@
  variant | version | date | source | binary |
  --------|---------|------|--------|--------|
  mainline | 5.9-rc4 | 2020-09-12 | [**[zip](https://github.com/linux-wsl2/linux-mainline/archive/v5.9-rc4.zip)**] [**[tar.gz](https://github.com/linux-wsl2/linux-mainline/archive/v5.9-rc4.tar.gz)**] [[github]](https://github.com/linux-wsl2/linux-mainline) | [**[tar.xz (x64)](https://github.com/linux-wsl2/linux-mainline/releases/download/v5.9-rc4/x64_linux-wsl2_5.9-rc4.tar.xz)**] ~~[**tar.xz (arm64)**]~~ [[notes](https://github.com/linux-wsl2/linux-mainline/releases/tag/v5.9-rc4)]
- stable | 5.8.8 | 2020-09-11 | [**[zip](https://github.com/linux-wsl2/linux-stable/archive/v5.8.8.zip)**] [**[tar.gz](https://github.com/linux-wsl2/linux-stable/archive/v5.8.8.tar.gz)**] [[github](https://github.com/linux-wsl2/linux-stable/tree/linux-5.8.y)] | [**[tar.xz (x64)](https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.8/x64_linux-wsl2_5.8.8.tar.xz)**] ~~[**tar.xz (arm64)**]~~ [[notes](https://github.com/linux-wsl2/linux-stable/releases/tag/v5.8.8)]
+ stable | 5.8.9 | 2020-09-12 | [**[zip](https://github.com/linux-wsl2/linux-stable/archive/v5.8.9.zip)**] [**[tar.gz](https://github.com/linux-wsl2/linux-stable/archive/v5.8.9.tar.gz)**] [[github](https://github.com/linux-wsl2/linux-stable/tree/linux-5.8.y)] | [**[tar.xz (x64)](https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.9/x64_linux-wsl2_5.8.9.tar.xz)**] ~~[**tar.xz (arm64)**]~~ [[notes](https://github.com/linux-wsl2/linux-stable/releases/tag/v5.8.8)]
  ~~stable [EOL]~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
  ~~longterm~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
  ~~linux-next~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
