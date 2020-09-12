@@ -1,6 +1,6 @@
 layout: page
 title: "About"
-permalink: /about/
+permalink: /about
 
 <p align="justify"><b>About</b> | <a href="mailto:linux-wsl2.github.io">Contact us</a> | <strike>Site news</strike> </p>
 <br>
