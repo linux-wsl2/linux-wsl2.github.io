@@ -1,6 +1,6 @@
 <p align="center"><font size="1"><a href="https://linux-wsl2.github.io/about">About</a> | <a href="mailto:linux-wsl2.github.io">Contact us</a> | <strike>Site news</strike> </font></p>
 <hr>
-<img src="/images/image.png" width="150" title="WSL Avatar" align="right" /><font size="7"><a href="linux-wsl2.github.io">The Linux-WSL2 Kernel Archives</a></font>
+<img src="/images/image.png" width="150" title="WSL Avatar" align="right" /><font size="7"><a href="https://linux-wsl2.github.io">The Linux-WSL2 Kernel Archives</a></font>
 <br>
 <br>
 <img href="https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.8/x64_linux-wsl2_5.8.8.tar.xz" alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/linux-wsl2/linux-stable?label=Download%20(x64)&style=plastic" width="250" align="right">
