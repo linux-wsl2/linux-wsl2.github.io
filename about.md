@@ -1,4 +1,4 @@
-<p align="center"><font size="3"><b>About</b> | <a href="mailto:linux-wsl2@ya.ru">Contact us</a> | <a href="https://linux-wsl2.github.io/news">Site news</a> </font></p>
+<p align="center"><font size="5"><b>About</b> | <a href="mailto:linux-wsl2@ya.ru">Contact us</a> | <a href="https://linux-wsl2.github.io/news">Site news</a> </font></p>
 <hr>
 <img src="/images/image.png" width="150" title="WSL Avatar" align="right" /><font size="7"><a href="https://linux-wsl2.github.io">The Linux-WSL2 Kernel Archives</a></font>
 <hr size="30">
