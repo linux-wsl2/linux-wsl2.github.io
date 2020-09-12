@@ -25,6 +25,6 @@ Get the official `microsoft-standard` variant builds [here [cab]](https://www.ca
 - [Kernel.org Documentations](https://www.kernel.org/doc/html/latest/)
 - [Kernel.org Patchwork](https://patchwork.kernel.org/)
 - [Kernel.org Wikis](https://wiki.kernel.org)
-- [Linux Kernel Mailing Lists](https://vger.kernel.org)
+- [Linux Kernel Mailing Lists](http://vger.kernel.org)
 - [Linux.com](https://www.linux.com)
 - [Linux Foundation](http://www.linuxfoundation.org/)
