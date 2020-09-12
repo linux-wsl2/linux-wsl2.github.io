@@ -3,7 +3,6 @@
 <br>
 <img href="https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.8/x64_linux-wsl2_5.8.8.tar.xz" alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/linux-wsl2/linux-stable?label=download%20for%20x64&style=plastic" width="250" align="right">
 <br>
-<br>
 
 ---
 
@@ -11,6 +10,7 @@
 
  variant | version | date | source | binary |
  --------|---------|------|--------|--------|
+ ~~mainline~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~
  stable | 5.8.8 | 2020-09-11 | [**[zip](https://github.com/linux-wsl2/linux-stable/archive/v5.8.8.zip)**] [**[tar.gz](https://github.com/linux-wsl2/linux-stable/archive/v5.8.8.tar.gz)**] [[github](https://github.com/linux-wsl2/linux-stable/tree/linux-5.8.y)] | [**[tar.xz (x64)](https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.8/x64_linux-wsl2_5.8.8.tar.xz)**] ~~[**tar.xz (arm64)**]~~ [[notes](https://github.com/linux-wsl2/linux-stable/releases/tag/v5.8.8)]
  ~~stable [EOL]~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
  ~~longterm~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
@@ -21,6 +21,7 @@ Get the official `microsoft-standard` variant builds [here [cab]](https://www.ca
 ### What's up and coming?
 - [x] Latest `stable` variant
 - [x] Official Microsoft variant
+- [ ] `mainline` variant (`-rc` builds)
 - [ ] EOL `stable` variant
 - [ ] `longterm` variants
 - [ ] `linux-next` variant
