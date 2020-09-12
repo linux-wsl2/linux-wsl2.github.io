@@ -9,7 +9,7 @@ Here you can find news about Linux-WSL2
 ### What's up and coming?
 - [x] Latest `stable` variant
 - [x] Official Microsoft variant
-- [ ] `mainline` variant (`-rc` builds)
+- [x] `mainline` variant (`-rc` builds and commits passed by Linus Torvalds himself)
 - [ ] EOL `stable` variant
 - [ ] `longterm` variants
 - [ ] `linux-next` variant
