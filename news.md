@@ -4,6 +4,7 @@
 <hr size="30">
 
 # Site news
+Here you can find news about Linux-WSL2
 
 ### What's up and coming?
 - [x] Latest `stable` variant
