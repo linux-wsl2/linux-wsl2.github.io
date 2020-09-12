@@ -15,3 +15,8 @@ Here you can find news about Linux-WSL2
 - [ ] `linux-next` variant
 - [ ] `arm64` builds
 - [ ] MSI-based installer
+
+---
+
+### Quick newslines
+- [20200913-19:31GMT] Currently pushing `mainline` variant sources to the repository. `Linux v5.9-rc4` x64 release build incoming soon.
