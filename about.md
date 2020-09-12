@@ -1,7 +1,7 @@
 <p align="center"><font size="1"><b>About</b> | <a href="mailto:linux-wsl2.github.io">Contact us</a> | <strike>Site news</strike> </font></p>
 <hr>
 <img src="/images/image.png" width="150" title="WSL Avatar" align="right" /><font size="7"><a href="linux-wsl2.github.io">The Linux-WSL2 Kernel Archives</a></font>
-<hr size="15">
+<hr size="30">
 
 # About
 
