@@ -4,6 +4,7 @@
 ---
 
 ### Sources and download 
+###### ※ Links marked in **bold** are direct download links
 
  Variant | Version | Date | Source | Binary |
  --------|---------|------|--------|--------|
@@ -11,8 +12,6 @@
  ~~stable [EOL]~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
  ~~longterm~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
  ~~linux-next~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
-
-###### ※ Links marked in **bold** are direct download links
 
 Get the official `microsoft-standard` variant builds [here [cab]](https://www.catalog.update.microsoft.com/Search.aspx?q=Windows%20Subsystem%20for%20Linux%20Update) ([sources](https://github.com/microsoft/WSL2-Linux-Kernel))
 
