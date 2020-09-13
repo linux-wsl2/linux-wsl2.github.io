@@ -18,9 +18,8 @@ Here you can find news about Linux-WSL2
 
 ---
 
-### Quick newslines
+## Newslines
 ###### ※ Newslines are sorted from the latest ones
-
 - `[20200913_19:56GMT]`: Updated local version tag of `stable` and `mainline` variant. Currently compiling updated kernels
 - `[20200912_22:56GMT]`: `Linux v5.8.9` from the `stable` variant just got released! [Release page](https://github.com/linux-wsl2/linux-stable/releases/tag/v5.8.9)
 - `[20200912_22:01GMT]`: Currently compiling `Linux v5.8.9` from the `stable` variant. Sources are already available [here](https://github.com/linux-wsl2/linux-stable)
