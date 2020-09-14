@@ -28,7 +28,3 @@ Get the official `microsoft-standard` variant builds [here [cab]](https://www.ca
 - [Linux Kernel Mailing Lists](http://vger.kernel.org)
 - [Linux.com](https://www.linux.com)
 - [Linux Foundation](http://www.linuxfoundation.org/)
-
-<br>
-<hr size="30">
-<a><img src="https://img.shields.io/badge/GitHub-Linux--WSL2-blue?style=social&logo=appveyor" width="100" title="Visit our GitHub!" align="left" /></a>
