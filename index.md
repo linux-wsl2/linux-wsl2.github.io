@@ -11,7 +11,7 @@
 
  variant | version | date | source | binary |
  --------|---------|------|--------|--------|
- mainline | 5.9-rc4 | 2020-09-12 | [**[zip](https://github.com/linux-wsl2/linux-mainline/archive/v5.9-rc4.zip)**] [**[tar.gz](https://github.com/linux-wsl2/linux-mainline/archive/v5.9-rc4.tar.gz)**] [[github]](https://github.com/linux-wsl2/linux-mainline) | [**[tar.xz (x64)](https://github.com/linux-wsl2/linux-mainline/releases/download/v5.9-rc4/x64_linux-wsl2_5.9-rc4.tar.xz)**] ~~[**tar.xz (arm64)**]~~ [[notes](https://github.com/linux-wsl2/linux-mainline/releases/tag/v5.9-rc4)]
+ mainline | 5.9-rc5 | 2020-09-14 | [**[zip](https://github.com/linux-wsl2/linux-mainline/archive/v5.9-rc5.zip)**] [**[tar.gz](https://github.com/linux-wsl2/linux-mainline/archive/v5.9-rc5.tar.gz)**] [[github]](https://github.com/linux-wsl2/linux-mainline) | [**[tar.xz (x64)](https://github.com/linux-wsl2/linux-mainline/releases/download/v5.9-rc5/x64_linux-wsl2_5.9-rc5.tar.xz)**] ~~[**tar.xz (arm64)**]~~ [[notes](https://github.com/linux-wsl2/linux-mainline/releases/tag/v5.9-rc5)]
  stable | 5.8.9 | 2020-09-12 | [**[zip](https://github.com/linux-wsl2/linux-stable/archive/v5.8.9.zip)**] [**[tar.gz](https://github.com/linux-wsl2/linux-stable/archive/v5.8.9.tar.gz)**] [[github](https://github.com/linux-wsl2/linux-stable/tree/linux-5.8.y)] | [**[tar.xz (x64)](https://github.com/linux-wsl2/linux-stable/releases/download/v5.8.9/x64_linux-wsl2_5.8.9.tar.xz)**] ~~[**tar.xz (arm64)**]~~ [[notes](https://github.com/linux-wsl2/linux-stable/releases/tag/v5.8.9)]
  ~~stable [EOL]~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
  ~~longterm~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ | ~~TBA~~ 
