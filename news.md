@@ -20,6 +20,7 @@ Here you can find news about Linux-WSL2
 
 ## Newslines
 ###### ※ Newslines are sorted from the latest ones
+- `[20200914_13:47GMT]`: Currently pushing EOL `stable` variant sources to the repository. `Linux v5.7.19 [EOL]` x64 release build incoming soon.
 - `[20200914_09:05GMT]`: `Linux v5.9-rc5` from the `mainline` variant just got released! [Release page](https://github.com/linux-wsl2/linux-mainline/releases/tag/v5.9-rc5)
 - `[20200914_06:02GMT]`: Currently compiling `Linux v5.9-rc5` from the `mainline` variant. Sources are already available [here](https://github.com/linux-wsl2/linux-mainline)
 - `[20200912_22:56GMT]`: `Linux v5.8.9` from the `stable` variant just got released! [Release page](https://github.com/linux-wsl2/linux-stable/releases/tag/v5.8.9)
