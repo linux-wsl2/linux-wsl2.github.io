@@ -9,3 +9,7 @@ Linux-WSL2 is a project started by [@rmnscnce](https://www.github.com/rmnscnce) 
 
 ### Getting involved
 Send an email [here](mailto:linux-wsl2@ya.ru) (put `[APPLINFO YYYYMMDD]` in the mail subject) to get information about getting involved in Linux-WSL2
+
+<br>
+<hr size="30">
+<a><p align="center"><img src="https://img.shields.io/badge/GitHub-Linux--WSL2-blue?style=social&logo=appveyor" width="200" title="Visit our GitHub!" /></p></a>
