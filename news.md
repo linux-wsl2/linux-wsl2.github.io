@@ -20,6 +20,7 @@ Here you can find news about Linux-WSL2
 
 ## Newslines
 ###### ※ Newslines are sorted from the latest ones
+- `[20200917_16:55GMT]`: Currently compiling `Linux v5.8.10` from the `stable` variant. Sources are already available [here](https://github.com/linux-wsl2/linux-stable/tree/linux-5.8.y)
 - `[20200914_15:03GMT]`: `Linux v5.7.19[EOL]` from the `stable` variant just got released! [Release page](https://github.com/linux-wsl2/linux-stable/releases/tag/v5.7.19)
 - `[20200914_13:49GMT]`: Currently compiling `Linux v5.7.19[EOL]` from the `stable` variant. Sources are already available [here](https://github.com/linux-wsl2/linux-stable/tree/linux-5.7.y)
 - `[20200914_13:47GMT]`: Currently pushing EOL `stable` variant sources to the repository. `Linux v5.7.19[EOL]` x64 release build incoming soon.
