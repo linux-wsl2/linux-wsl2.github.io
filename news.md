@@ -20,6 +20,7 @@ Here you can find news about Linux-WSL2
 
 ## Newslines
 ###### ※ Newslines are sorted from the latest ones
+- `[20200914_05:38GMT]`: `Linux v5.9-rc6` from the `mainline` variant just got released! [Release page](https://github.com/linux-wsl2/linux-mainline/releases/tag/v5.9-rc6)
 - `[20200922_04:45GMT]`: Currently compiling `Linux v5.9-rc6` from the `mainline` variant. Sources are already available [here](https://github.com/linux-wsl2/linux-mainline)
 - `[20200918_02:54GMT]`: `Linux v5.8.10` from the `stable` variant just got released! [Release page](https://github.com/linux-wsl2/linux-stable/releases/tag/v5.8.10)
 - `[20200917_16:55GMT]`: Currently compiling `Linux v5.8.10` from the `stable` variant. Sources are already available [here](https://github.com/linux-wsl2/linux-stable/tree/linux-5.8.y)
