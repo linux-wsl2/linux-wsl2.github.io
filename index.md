@@ -7,7 +7,7 @@
 <br>
 <hr size="30">
 
-###### ※ Links marked in **bold** are direct download links
+###### ※ Links marked in **bold** are direct download links; Timestamps here are in UTC+00
 
  variant | version | date | source | binary |
  --------|---------|------|--------|--------|
