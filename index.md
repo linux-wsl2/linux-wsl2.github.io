@@ -20,6 +20,7 @@
 Get the official `microsoft-standard` variant builds [here [cab]](https://www.catalog.update.microsoft.com/Search.aspx?q=Windows%20Subsystem%20for%20Linux%20Update) ([[github]](https://github.com/microsoft/WSL2-Linux-Kernel))
 
 ### Other resources
+- [Linux-WSL2 Patchwork](https://linux-wsl2.github.io/patchwork)
 - [Linux Kernel Archives](https://kernel.org)
 - [Windows Command Line](https://devblogs.microsoft.com/commandline)
 - [Kernel.org Documentations](https://www.kernel.org/doc/html/latest/)
