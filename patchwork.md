@@ -9,6 +9,6 @@ Here you can find patches to apply on Linux-WSL2 kernel sources (or any other Li
 
 [Main repo page](https://github.com/linux-wsl2/patchworks)
 
-Patch name | Author | File
------------|--------|------
-dxgkrnl | Microsoft | [git repo](https://github.com/linux-wsl2/patchworks/tree/microsoft-WSL2_dxgkrnl)
+Patch name | Author | Files
+-----------|--------|-------
+dxgkrnl | Microsoft | [[git repo](https://github.com/linux-wsl2/patchworks/tree/microsoft-WSL2_dxgkrnl)]
