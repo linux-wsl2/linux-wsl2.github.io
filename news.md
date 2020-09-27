@@ -10,7 +10,7 @@ Here you can find news about Linux-WSL2
 - [x] Latest `stable` variant
 - [x] Official Microsoft variant
 - [x] `mainline` variant (`-rc` builds and commits passed by Linus Torvalds himself)
-- [x] EOL `stable` variant
+- [ ] EOL `stable` variant
 - [ ] `longterm` variants
 - [ ] `linux-next` variant
 - [ ] `arm64` builds
@@ -20,6 +20,7 @@ Here you can find news about Linux-WSL2
 
 ## Newslines
 ###### ※ Newslines are sorted from the latest ones
+- `[20200927_06:13UTC]`: Currently compiling `Linux v5.8.12` from the `stable` variant. Sources are already available [here](https://github.com/linux-wsl2/linux-stable/tree/linux-5.8.y)
 - `[20200923_16:27UTC]`: `Linux v5.8.11` from the `stable` variant just got released! [Release page](https://github.com/linux-wsl2/linux-stable/releases/tag/v5.8.11)
 - `[20200923_15:46UTC]`: Currently compiling `Linux v5.8.11` from the `stable` variant. Sources are already available [here](https://github.com/linux-wsl2/linux-stable/tree/linux-5.8.y)
 - `[20200923_15:22UTC]`: Added the [Patchwork page](https://linux-wsl2.github.io/patchwork). Please take a look
